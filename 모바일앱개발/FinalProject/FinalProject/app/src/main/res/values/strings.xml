@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="addlist">add</string>
+    <string name="gotomap">go to map</string>
+    <string name="initialize">initialize</string>
+    <string name="gobacktomain">go back to main</string>
+</resources>
